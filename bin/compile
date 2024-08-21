@@ -6,7 +6,7 @@ BUILD_DIR=$1
 CACHE_DIR=$2
 
 # config
-VERSION="1.15.8"
+VERSION="1.15.6"
 
 # Buildpack URL
 ARCHIVE_NAME=vault_${VERSION}_linux_amd64
